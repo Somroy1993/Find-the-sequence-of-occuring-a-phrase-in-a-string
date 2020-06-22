@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome Test with Github Pages
 
 You can use the [editor on GitHub](https://github.com/Somroy1993/Find-the-sequence-of-occuring-a-phrase-in-a-string/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
